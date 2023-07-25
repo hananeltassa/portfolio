@@ -4,14 +4,16 @@
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Telecommunications and Computer Engineer	| Lebanese International University (_Present_)	 			        		
+- B.S., Telecommunications Engineer	| Lebanese International University (_July 2022_)	 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Relationship Builder Clerk @ Maids.cc (_Feb 2023 - June 2023_)**
+• Entered and Prepared data sheet using Google form.
+• Monitored and reported changes on the dashboard.
+• Reviewed and Prepared both daily and weekly reports.
+• Analyzed and reported on sales figures
+• Checked records using Zoho, Ziwo, Mixpanel, Tableau, and ERP.
+• Assisted to update client's records and sending introductory and requested information to clients
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
