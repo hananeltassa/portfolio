@@ -40,3 +40,35 @@ nav a {
 nav a:hover {       
     color: #007BFF;                
 }
+
+
+#about {
+    margin: 10px; 
+    
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90%; 
+    margin: auto; 
+}
+
+.image-section {
+    display: flex;
+    justify-content: center; /* Center the image */
+}
+
+.text-section {
+    padding-left: 70px; 
+    font-size: 1rem;
+}
+
+.profile-image {
+    width: 230px; 
+    height: 310px; 
+    border-radius: 50%; 
+    border: 2px solid #ccc; 
+    margin-right: 60px; 
+}
